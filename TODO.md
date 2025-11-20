@@ -1,0 +1,6 @@
+- [ ] Analyze why 'Students' link doesn't navigate
+- [ ] Update sidebar links with correct href paths
+- [ ] Add missing controller methods for menu items
+- [ ] Add missing routes for menu items
+- [ ] Ensure view files are correctly named and placed
+- [ ] Test navigation
